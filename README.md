@@ -2,6 +2,7 @@
 
 **NVIDIA DRIVER CHECK**
 
+
 After completing the nvidia driver installation run the below command to verify and expected output is shown below.
 
 idps@smc-gpu-03:/dev$ nvidia-smi
@@ -54,6 +55,7 @@ Mon Jun  6 21:47:05 2022
 |=============================================================================|
 |  No running processes found                                                 |
 +-----------------------------------------------------------------------------+
+
 
 
 
